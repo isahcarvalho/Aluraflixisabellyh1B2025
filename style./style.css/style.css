@@ -1,5 +1,8 @@
 body{
-    background-color: black;
-        
+    background: black;   
     color: white;
     }
+
+header{
+    border: solid 2px red;
+}
